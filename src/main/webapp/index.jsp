@@ -1397,7 +1397,7 @@ This is a complete, modern e-commerce HTML document. It's a fully functional sto
       text: 'Fast shipping and excellent support. The product exceeded my expectations!',
       stars: 5
     }, {
-      name: 'Michael Lee',
+      name: 'Surendra Reddy',
       role: 'Frequent Shopper',
       avatar: 'https://images.unsplash.com/photo-1546456073-6712f79251bb?auto=format&fit=crop&w=80&q=80',
       text: 'Great selection and smooth checkout. Will definitely shop again.',
