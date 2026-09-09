@@ -1391,7 +1391,7 @@ This is a complete, modern e-commerce HTML document. It's a fully functional sto
     ];
 
     const TESTIMONIALS = [{
-      name: 'Ava Martin',
+      name: 'Bhanu Golusu',
       role: 'Verified Buyer',
       avatar: 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=80&q=80',
       text: 'Fast shipping and excellent support. The product exceeded my expectations!',
