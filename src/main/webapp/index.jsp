@@ -1,7 +1,7 @@
 This is a complete, modern e-commerce HTML document. It's a fully functional storefront with a product catalog, shopping cart, and interactive features.
 ```html
 <!doctype html>
-<html lang="en">
+html lang="en">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
