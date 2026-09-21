@@ -1125,10 +1125,10 @@ This is a complete, modern e-commerce HTML document. It's a fully functional sto
     <div class="container header-inner">
       <div style="display:flex;align-items:center;gap:12px;">
         <button class="mobile-toggle" id="mobileToggle" aria-label="Toggle menu">
-          <i class="fas fa-bars"></i>
+          <em class="fas fa-bars"></em>
         </button>
         <a class="brand" href="#">
-          <i class="fas fa-store-alt"></i>
+          <em class="fas fa-store-alt"></em>
           <span>Nexus<span class="accent">Shop</span></span>
         </a>
       </div>
